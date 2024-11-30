@@ -2,9 +2,32 @@
 
 # Table of Contents
 
+* [Intro](#intro)
+* [Acronyms](#acronyms)
+# [Chat Spam](#chat-spam)
+* [Do Every Day](#do-every-day)
+* [Season 4 Warps](#season-4-warps)
+* [Skyblock Shop](#skyblock-shop)
+  * [Food Sorted by Sell Price](#food-sorted-by-sell-price)
+  * [Food Sorted by Name](#food-sorted-by-name)
+* [Starting Tips](#starting-tips)
+  * [Cobblegen](#cobblegen)
+  * [Lava](#lava)
+  * [Bone Meal](#bone-meal)
+  * [Money Making](#money-making)
+* [Milestones](#milestones)
+  * [Casual Progression](#casual-progression)
+  * [Milestones Farming](#milestones-farming)
+  * [Milestones Fishing(#milestones-fishing)
+  * [Milestones Mining](#milestones-mining)
+    * [Overworld Cobble Gen](#overworld-cobble-gen)
+  * [Milestones Slayer](#milestones-slayer)
+  * [Milestones Woodcutting](#milestones-woodcutting)
+* [Version](#Version)
+
 # Intro
 
-/!\ Complex Gaming Skyblock is a HEAVY Pay-to-Win Minecraft server.  You CAN enjoy it without paying a cent.
+/!\ Complex Gaming Skyblock is a HEAVY Pay-to-Win Minecraft server.  That said, you CAN enjoy it without paying a cent.
 
 # Acronyms
 
@@ -15,12 +38,7 @@
 * IGM = In-Game Money
 * PW = Player Warps (`/pwarps` to see all, or `/pwarp <OwnerName>` to warp to popular player islands)
 
-    /pw smoke
-    /pw epic
-    /pw BCOD FREE
-    /pw CodFactory
-
-# Spam
+# Chat Spam
 
 Q. How do I turn OFF all the spam?
 
@@ -31,6 +49,21 @@ A. There are multiple systems:
 * `/prefs` > Rune Notifications
 * `/cf` > Coinflip Notifications (redstone dust icon -> grey)
 * `/bidwars` > Bid Wars Notifications (redstone dust icon -> grey)
+
+# Do Every Day
+
+```
+/freerunes
+/dailies
+/vote
+```
+# Season 4 Warps
+
+    /pw smoke
+    /pw epic
+    /pw BCOD FREE
+    /pw CodFactory
+
 
 # Skyblock Shop
 
@@ -322,14 +355,6 @@ $30,327,081.57   $78,850,41 Silverfish Spawner (Requires Island 23)
        $641.99       $32.04 Wheat
        $122.13        $7.46 Wheat Seeds
 
-# Do Every Day
-
-```
-/freerunes
-/dailies
-/vote
-```
-
 # Starting Tips
 
 ## Cobblegen
@@ -429,7 +454,7 @@ To See Mining Milestones: `/is` > Right-Click on Island > Island Milestones > (P
 
 * `PT` = Kill enemies in Pharoah's Tomb
 
-## Milestones - Farming
+## Milestones Farming
 
 ```
    Island  Farming     Carrot     Potato      Wheat   Beetroot  Sugar Cane    Melon    Pumpkin        Reward
@@ -443,7 +468,21 @@ To See Mining Milestones: `/is` > Right-Click on Island > Island Milestones > (P
        24        8  2,000,000  2,000,000  2,000,000  2,000,000   1,000,000  850,000  2,000,000  +$50,000,000
 ```
 
-## Milestones - Mining
+## Milestones Fishing
+
+```
+   Island  Fish      Cod   Salmon  Pufferfish  Tropical        Reward
+        6     1       25        5         n/a       n/a   +$1,000,000
+       11     2       75       30           6       n/a   +$2,500,000
+       13     3      300      125          25         7   +$5,000,000
+       16     4      750      250          75        15  +$10,000,000
+       18     5    2,000      850         275        65  +$12,500,000
+       21     6    6,250    1,750         750       125  +$20,000,000
+       23     7   13,750    5,250       2,000       750  +$25,000,000
+       24     8   25,000   10,000       5,000     1,250  +$50,000,000
+```
+
+## Milestones Mining
 
 ```
    Island  Mining     Iron     Coal     Gold  Redstone    Lapis  Diamond        Reward
@@ -472,7 +511,7 @@ To See Mining Milestones: `/is` > Right-Click on Island > Island Milestones > (P
        19      7  $25,000,000   0.0%  24.7%   19.8%  17.3%     14.8%  11.1%     8.6%     3.7%
 ```
 
-## Milestones - Slayer
+## Milestones Slayer
 ```
    Island  Slayer          Mob               Mob                  Reward
         4       1      750 Pig           750 Sheep           +$1,000,000  2x Cow Spawner      2x Pig Spawner
@@ -485,7 +524,7 @@ To See Mining Milestones: `/is` > Right-Click on Island > Island Milestones > (P
        24       8  300,000 Villager  300,000 Silverfish     +$50,000,000
 ```
 
-## Milestones - Woodcutting
+## Milestones Woodcutting
 
 ```
    Island  Wood      Oak    Birch   Spruce   Jungle   Acacia  Dark Oak   Cherry        Reward
@@ -497,20 +536,6 @@ To See Mining Milestones: `/is` > Right-Click on Island > Island Milestones > (P
        20     6   50,000   25,000   17,500   10,000    7,500     5,000      n/a  +$20,000,000
        22     7   75,000   75,000   75,000   62,500   50,000    25,000   25,000  +$25,000,000
        24     8  125,000  125,000  125,000  125,000  125,000   125,000  125,000  +$50,000,000
-```
-
-## Fishing
-
-```
-   Island  Fish      Cod   Salmon  Pufferfish  Tropical        Reward
-        6     1       25        5         n/a       n/a   +$1,000,000
-       11     2       75       30           6       n/a   +$2,500,000
-       13     3      300      125          25         7   +$5,000,000
-       16     4      750      250          75        15  +$10,000,000
-       18     5    2,000      850         275        65  +$12,500,000
-       21     6    6,250    1,750         750       125  +$20,000,000
-       23     7   13,750    5,250       2,000       750  +$25,000,000
-       24     8   25,000   10,000       5,000     1,250  +$50,000,000
 ```
 
 # Minions
@@ -731,4 +756,3 @@ A. A 5x5x5 minimum pond will get you started but you'll probably want a 11x6x11 
 # Version
 
 Last updated Friday, Nov. 29, 2024
-
