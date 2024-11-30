@@ -4,7 +4,7 @@
 
 * [Intro](#intro)
 * [Acronyms](#acronyms)
-# [Chat Spam](#chat-spam)
+* [Chat Spam](#chat-spam)
 * [Do Every Day](#do-every-day)
 * [Season 4 Warps](#season-4-warps)
 * [Skyblock Shop](#skyblock-shop)
