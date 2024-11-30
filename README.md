@@ -1,4 +1,4 @@
-# Complex Gaming SkyBlock Shop Cheat Sheet
+# Complex Gaming SkyBlock Cheat Sheet
 
 # Table of Contents
 
@@ -421,34 +421,34 @@ This way you can save $3,000 / Lava Bucket.
 
 /!\ **To claim island upgrade rewards:** `/ms` (or `/is`) > Right-click manage or Left-click select island > Island Milestones > Claim Island Upgrades (green clay)
 
-To See Mining Milestones: `/is` > Right-Click on Island > Island Milestones > (Pick axe)
+e.g. To See Mining Milestones: `/is` > Right-Click on Island > Island Milestones (book icon) > Mining Milestones (gold pickaxe icon)
 
-|Level|Requirement(s)                                          | Cost  | Ore |
-|:--:|:--------------------------------------------------------|------:|:----|
-|  1 | Create an Island                                        |   $0. | Iron, Coal |
-|  2 | Level 1 Mining Milestone                                |   $0. | |
-|  3 | Level 1 Farming Milestone                               |   $0. | |
-|  4 | Level 1 Slayer Milestone                                |   $0. | |
-|  5 | Level 1 Woodcutting Milestone                           |  $25M |
-|  6 | Level 1 Fishing Milestone                               |   $0. |
-|  7 | Level 2 Mining Milestone                                |   $0. |
-|  8 | Level 2 Farming Milestone                               |   $0. |
-|  9 | Level 2 Slayer Milestone                                |   $0. |
-| 10 | Level 2 Woodcutting Milestone, 500 PT                   | $250M |
-| 11 | Level 2 Fishing Milestone                               |  $25M |
-| 12 | 3 Mining, 3 Farming                                     |  $25M |
-| 13 | 3 Slayer, 3 Fishing                                     |  $25M |
-| 14 | 4 Mining, 4 Farming, 3 Woodcutting                      |  $25M |
-| 15 | 12,500 PT                                               | $2.5B |
-| 16 | 4 Slayer, 4 Fishing, 4 Woodcutting                      |  $75M |
-| 17 | 5 Mining, 5 Farming                                     |  $75M |
-| 18 | 5 Slayer, 5 Fishing, 5 Woodcutting                      |  $75M |
-| 19 | 6 Mining, 6 Farming                                     |  $75M | 
-| 20 | 6 Woodcutting, 50000 PT                                 | $7.5B |
-| 21 | 6 Slayer, 6 Fishing                                     | $150M |
-| 22 | 7 Mining, 7 Farming, 7 Woodcutting                      | $150M |
-| 23 | 7 Slayer, 7 Fishing                                     | $150M |
-| 24 | 8 Mining, 8 Farming, 8 Fishing, 8 Slayer, 8 Woodcutting | $150M |
+|Level|Requirement(s)                                          | Cost  | Ore        | Unlock Spawner     |Saplings|
+|:--:|:--------------------------------------------------------|------:|:-----------|:-------------------|-------:|
+|  1 | Create an Island                                        |   $0. | Iron, Coal | Pig, Sheep         |     10 |
+|  2 | Level 1 Mining Milestone                                |   $0. | ---        | ---                |    --- |
+|  3 | Level 1 Farming Milestone                               |   $0. | ---        | ---                |    --- |
+|  4 | Level 1 Slayer Milestone                                |   $0. | ---        |Chicken, Cow        |    --- |
+|  5 | Level 1 Woodcutting Milestone                           |  $25M | ---        |                    |     15 |
+|  6 | Level 1 Fishing Milestone                               |   $0. | ---        |                    |    --- |
+|  7 | Level 2 Mining Milestone                                |   $0. | Gold       |                    |    --- |
+|  8 | Level 2 Farming Milestone                               |   $0. | ---        |                    |    --- |
+|  9 | Level 2 Slayer Milestone                                |   $0. | ---        |                    |    --- |
+| 10 | Level 2 Woodcutting Milestone, 500 PT                   | $250M | ---        |Zombie,Skeleton     |     25 |
+| 11 | Level 2 Fishing Milestone                               |  $25M | ---        |                    |    --- |
+| 12 | 3 Mining, 3 Farming                                     |  $25M | Redstone   |                    |    --- |
+| 13 | 3 Slayer, 3 Fishing                                     |  $25M | ---        | Creeper,Panda      |    --- |
+| 14 | 4 Mining, 4 Farming, 3 Woodcutting                      |  $25M | Lapis      |                    |     40 |
+| 15 | 12,500 PT                                               | $2.5B | ---        |                    |    --- |
+| 16 | 4 Slayer, 4 Fishing, 4 Woodcutting                      |  $75M | ---        | Blaze, Hoglin      |    --- |
+| 17 | 5 Mining, 5 Farming                                     |  $75M | Diamond    |                    |    --- |
+| 18 | 5 Slayer, 5 Fishing, 5 Woodcutting                      |  $75M | ---        |                    |     50 |
+| 19 | 6 Mining, 6 Farming                                     |  $75M | Emerald    |                    |    --- |
+| 20 | 6 Woodcutting, 50000 PT                                 | $7.5B | ---        |                    |    --- |
+| 21 | 6 Slayer, 6 Fishing                                     | $150M | ---        |Turtle, Iron Golem  |    --- |
+| 22 | 7 Mining, 7 Farming, 7 Woodcutting                      | $150M | ---        |---                 |    --- |
+| 23 | 7 Slayer, 7 Fishing                                     | $150M | ---        |Villager, Silverfish|    --- |
+| 24 | 8 Mining, 8 Farming, 8 Fishing, 8 Slayer, 8 Woodcutting | $150M | ---        |Endermite           |    --- |
 
 **Legend:**
 
