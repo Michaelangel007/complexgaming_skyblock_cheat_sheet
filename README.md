@@ -543,10 +543,10 @@ e.g. To See Mining Milestones: `/is` > Right-Click on Island > Island Milestones
 Types of Minions:
 
 * Builder
-* Farming - Beetroot, Cactus, Nether Wart
+* Farming - Beetroot, Cactus, Melon, Nether Wart, Pumpkin, Sweet Berries
 * Fishing
-* Mining - Diamond, Emerald, Lapis Lazuli, Redstone
-* Slayer - Blaze, Enderman, Iron Golem, Piglin, Silverfish, Spider
+* Mining - Diamond, Emerald, Lapis Lazuli, Raw Copper, Redstone
+* Slayer - Blaze, Cave Spider, Enderman, Iron Golem, Magma Cube, Piglin, Silverfish, Slime, Spider
 
 ```
 Quality   Bonus Examples
