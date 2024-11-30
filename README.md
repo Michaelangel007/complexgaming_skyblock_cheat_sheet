@@ -18,7 +18,7 @@
 * [Milestones](#milestones)
   * [Casual Progression](#casual-progression)
   * [Milestones Farming](#milestones-farming)
-  * [Milestones Fishing(#milestones-fishing)
+  * [Milestones Fishing](#milestones-fishing)
   * [Milestones Mining](#milestones-mining)
     * [Overworld Cobble Gen](#overworld-cobble-gen)
   * [Milestones Slayer](#milestones-slayer)
