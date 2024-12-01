@@ -15,6 +15,7 @@
   * [Lava](#lava)
   * [Bone Meal](#bone-meal)
   * [Money Making](#money-making)
+  * [Saplings](#saplings)
 * [Milestones](#milestones)
   * [Casual Progression](#casual-progression)
   * [Milestones Farming](#milestones-farming)
@@ -414,6 +415,18 @@ This way you can save $3,000 / Lava Bucket.
 5. Place 16 _raw cod_ and 2 _Coal_ into smoker
 6. Sell _Cooked Cod_             16x @ $    = +$37,995.23
 
+## Saplings
+
+**There are no saplings in the Shop EXCEPT for `/shop oak sapling`.**  You need to chop trees to have them drop. In order to plant trees BOTH your island level and woodcutting needs to be at the right minimum level.
+
+| Tree   | Drops Sapling   |Woodcutting Level|Island Level|
+|:-------|:----------------|--:|
+| Oak    | Birch           | 1 |
+| Birch  | Spruce Sapling  | 2 |
+| Spruce | Jungle Sapling  | 3 |
+| Jungle | Acacia Sapling  | 4 |
+| Acacia | Dark Oak Sapling| 5 |
+|Dark Oak| Cherry Sapling  | 6 |
 
 # Milestones
 
@@ -753,6 +766,10 @@ Q. **How do I make a pond for fishing?**
 
 A. A 5x5x5 minimum pond will get you started but you'll probably want a 11x6x11 due to the Anti-AFK Fishing Plugin to move your bobber around.
 
+Q. **Can I remove runes from an item without destroying them?**
+
+A. _Cleansing Wand_ from `/warp infuser`
+
 # Version
 
-Last updated Friday, Nov. 29, 2024
+Last updated Sat., Nov. 30, 2024
