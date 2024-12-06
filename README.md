@@ -16,6 +16,11 @@
   * [Bone Meal](#bone-meal)
   * [Money Making](#money-making)
   * [Saplings](#saplings)
+* [Jobs](#jobs)
+  * [Farming Job](#farming-job)
+  * [Fishing Job](#fishing-job)
+  * [Mining Job](#mining-job)
+  * [Slaying Job](#slaying-job)
 * [Milestones](#milestones)
   * [Casual Progression](#casual-progression)
   * [Milestones Farming](#milestones-farming)
@@ -24,6 +29,12 @@
     * [Overworld Cobble Gen](#overworld-cobble-gen)
   * [Milestones Slayer](#milestones-slayer)
   * [Milestones Woodcutting](#milestones-woodcutting)
+* [Minions](#minions)
+  * [Minion Upgrades](#minion-upgrades)
+  * [Farming Minion Upgrades](#farming-minion-upgrades)
+  * [Minion Implants](#mining-implants)
+* [Mystery Dust](#mystery-dust)
+* [Runes](#runes)
 * [Version](#Version)
 
 # Intro
@@ -427,6 +438,60 @@ This way you can save $3,000 / Lava Bucket.
 | Jungle | Acacia Sapling  | 4 |
 | Acacia | Dark Oak Sapling| 5 |
 |Dark Oak| Cherry Sapling  | 6 |
+
+---
+
+# Jobs
+
+You can earn money doing common tasks such as:
+
+* Chopping Wood
+* Selling crops
+* Fishing
+* Mining
+* Killing (tomb) monsters
+
+Type `/jobs` to view or change jobs, or to collect your paycheck.
+
+## Farming Job
+
+* Receive 5% of the current market value of each crop you harvest
+
+## Fishing Job
+
+| Fish          |    Pay |
+|:--------------|-------:|
+| Cod           |   $400 |
+| Pufferfish    | $1,000 |
+| Salmon        |   $800 |
+| Tropical Fish | $2,000 |
+
+## Logging Job
+
+* All Logs: $225
+
+## Mining Job
+
+| Ore            | Pay |
+|:---------------|----:|
+| Ancient Debris | $50 |
+| Coal           |  $7 |
+| Copper         |  $7 |
+| Emerald        | $35 |
+| Diamond        | $20 |
+| Gold           | $15 |
+| Iron           |  $7 |
+| Lapis          | $10 |
+| Nether Quartz  |  $5 |
+| Nether Gold    |  $5 |
+| Redstone       | $10 |
+| Stone          |  $5 |
+
+## Slaying Job
+
+* Tomb Monster: $1,000
+
+---
 
 # Milestones
 
