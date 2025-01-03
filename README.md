@@ -680,6 +680,7 @@ Q. What do I do with mystery dust?
 
 A. ???
 
+
 # Runes
 
 Use `/infuser` to see all runes.
@@ -687,6 +688,7 @@ Use `/infuser` to see all runes.
 /!\ See https://complex-gaming.fandom.com/wiki/Runes
 
 ## Runes - Common
+
 
 * Berserk - Break into a blinding rage while under 3H. Grants Speed III and 60% increased damage dealt.
 * Clarity - Automatically removes Blindness V and weaker effects.
@@ -735,8 +737,8 @@ Use `/infuser` to see all runes.
 * Bloodstained Gold
 * Careful Step
 * Fire Forged
+* Green Thumb, Level 10 - Has a 100% chance of replanting seeds from your inventory into nearby soil when harvesting crops.
 * Gardener
-* Green Thumb
 * Iron Stance
 * Lark
 * Meal Planning
@@ -792,6 +794,16 @@ Examples:
 * Swindled Shards II (Mythical) - Has a chance of stealing Gold Shards from Pharaoh's Tomb Monsters.
 * Wise III - Increases the amount of experience that dropswhen fishing, mining ores, or killing mobs by 30%,
 
+## Upgrading Runes
+
+You need a _Hidden Treasure_ to upgrades runes.
+
+With a _Gold Shard_ you can sell them to the _Mercent_ in the _Pharoah's Tomb_ at coordinates:
+
+* Zone 2:  0, 137
+* Zone 3:  0,  91
+
+See [Overmaxing](https://complex-gaming.fandom.com/wiki/Upgrades)
 
 # FAQ
 
